@@ -45,18 +45,7 @@ This project is a Power BI dashboard designed for ElectroHub, showcasing interac
 ## Project Files
 
 - `.pbix` Power BI Dashboard file
-- Screenshots or demo GIFs (if available)
-- Documentation/requirements (from PowerPoint)
-
----
-
-## How to Use
-
-1. Clone or download this repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. Explore the report pages and use slicers to interact with visuals.
-4. Modify or enhance the dashboard as needed.
-
+- Screenshots 
 ---
 
 ## Screenshots
