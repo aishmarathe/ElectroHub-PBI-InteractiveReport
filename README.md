@@ -1,4 +1,4 @@
-# ElectroHub-PBI-InteractiveReport
+
 # ElectroHub Power BI Sales Analytics Dashboard
 
 This project is a Power BI dashboard designed for ElectroHub, showcasing interactive analytics on sales, profit, discount, and order data. The dashboard provides detailed insights to help business stakeholders make data-driven decisions.
